@@ -1,0 +1,17 @@
+
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: none;
+    text-shadow:  5px 1px 4px orange;
+    color: aqua;
+    font-size: xx-large;
+    font-family: cursive;
+    font-weight: bolder;
+    font-style: italic ;
+    margin: 400px;
+    padding: 50px;
+    border: 10px solid hotpink;
+    outline: 5px solid chartreuse;
+    border-radius: 100px;
+}
